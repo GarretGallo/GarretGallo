@@ -1,4 +1,3 @@
-# Garret-Gallo
 # Garret Gallo
 
 **'Digitial Data Craftmans (Data Engineering/Analytics and Visualization/Machine Learning)'**

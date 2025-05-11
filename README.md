@@ -21,7 +21,8 @@ and proper data infrasture, as well as empowering people to make better decision
 <img align='left' alt='Java' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 <img align='left' alt='Java' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
-#
+
+
 
 ### Certifications
 *   **[Codecademy - Data Engineer Career Path](https://www.codecademy.com/profiles/garretGallo4815753860/certificates/a0ea6712a909402896de2c6772445311)**

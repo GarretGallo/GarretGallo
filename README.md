@@ -33,6 +33,3 @@ and proper data infrasture, as well as empowering people to make better decision
     *   An in-depth course that taught me the fundamentals of ML/AI Engineering
 
 #
-
-### :chart_with_upwards_trend: Stats :bar_chart:
-![LeetCode Stats](https://leetcard.jacoblin.cool/GGcode9?theme=light&font=Bungee%20Inline)

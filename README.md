@@ -1,6 +1,6 @@
 # Garret Gallo
 
-### **`Digital Data Craftsman`**  
+### :construction_worker: **`Digital Data Craftsman`**  
 `Data Engineering` | `Analytics and Visualization` | `Machine Learning`
 
 As an engineer I design scalable data systems, transforming unstructured data 
@@ -12,7 +12,7 @@ and proper data infrasture, as well as empowering people to make better decision
 
 #
 
-### Toolkit
+### :hammer: Toolkit :hammer:
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
   <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
@@ -33,5 +33,5 @@ and proper data infrasture, as well as empowering people to make better decision
 
 #
 
-### Stats
+### :chart_with_upwards_trend: Stats :bar_chart:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/GGcode9?theme=light&font=Bungee%20Inline)

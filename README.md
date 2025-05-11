@@ -13,7 +13,7 @@ and proper data infrasture, as well as empowering people to make better decision
 #
 
 ### Toolkit
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
+<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
   <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />

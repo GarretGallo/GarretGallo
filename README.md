@@ -24,7 +24,7 @@ and proper data infrasture, as well as empowering people to make better decision
 
 #
 
-### Certifications
+### :bookmark_tabs: Certifications :bookmark_tabs:
 *   **[Codecademy - Data Engineer Career Path](https://www.codecademy.com/profiles/garretGallo4815753860/certificates/a0ea6712a909402896de2c6772445311)**
     *   An in-depth course that taught me the fundamentals of Data Engineering
 

@@ -23,7 +23,7 @@ and proper data infrasture, as well as empowering people to make better decision
 #
 
 ### Certifications
-*   **<<!nav>>Codecademy - Data Engineer Career Path<<!/nav>>**: {Link: Codecademy https://www.codecademy.com/profiles/garretGallo4815753860/certificates/a0ea6712a909402896de2c6772445311}
+*   [Codecademy - Data Engineer Career Path](https://www.codecademy.com/profiles/garretGallo4815753860/certificates/a0ea6712a909402896de2c6772445311)
     *   An indepth coruse that taught me the foundamentals of Data Engineering
 
 *   **<<!nav>>Codecademy - Machine Learning/AI Engineer Career Path<<!/nav>>**: {Link: Codecademy https://www.codecademy.com/profiles/garretGallo4815753860/certificates/6f8e0510ca91437a847b53aa9e9aa3f1}

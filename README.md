@@ -20,6 +20,7 @@ and proper data infrasture, as well as empowering people to make better decision
   <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
   <img alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img alt="Sklearn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 </div>
 
 #

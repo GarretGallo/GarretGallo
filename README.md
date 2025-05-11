@@ -13,21 +13,21 @@ and proper data infrasture, as well as empowering people to make better decision
 #
 
 ### Toolkit
-
+<div>
 <img align='left' alt='Java' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align='left' alt='Java' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align='left' alt='Java' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align='left' alt='Java' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align='left' alt='Java' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 <img align='left' alt='Java' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
+</div>
 #
 
 ### Certifications
-*   **[Codecademy - Data Engineer Career Path]**(https://www.codecademy.com/profiles/garretGallo4815753860/certificates/a0ea6712a909402896de2c6772445311)
+*   **[Codecademy - Data Engineer Career Path](https://www.codecademy.com/profiles/garretGallo4815753860/certificates/a0ea6712a909402896de2c6772445311)**
     *   An indepth coruse that taught me the foundamentals of Data Engineering
 
-*   **[Codecademy - Machine Learning/AI Engineer Career Path]**(https://www.codecademy.com/profiles/garretGallo4815753860/certificates/6f8e0510ca91437a847b53aa9e9aa3f1)
+*   **[Codecademy - Machine Learning/AI Engineer Career Path](https://www.codecademy.com/profiles/garretGallo4815753860/certificates/6f8e0510ca91437a847b53aa9e9aa3f1)**
     *   An indepth coruse that taught me the foundamentals of ML/AI Engineering
 
 #

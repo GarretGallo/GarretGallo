@@ -32,4 +32,4 @@ and proper data infrasture, as well as empowering people to make better decision
 #
 
 ### Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/GGCode?theme=light)
+![LeetCode Stats](https://leetcard.jacoblin.cool/GGcode9?theme=light&font=Bungee%20Inline)

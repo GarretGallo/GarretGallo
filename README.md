@@ -1,6 +1,6 @@
 # Garret Gallo
 
-# **`Digital Data Craftsman`**  
+## **`Digital Data Craftsman`**  
 `Data Engineering` | `Analytics and Visualization` | `Machine Learning`
 
 As an engineer I design scalable data systems, transforming unstructured data 

@@ -1,8 +1,5 @@
 # Garret Gallo
 
-## Connect with me!
-https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white 
-
 ### :construction_worker: **`Digital Data Craftsman`**  
 `Data Engineering` | `Analytics and Visualization` | `Machine Learning`
 

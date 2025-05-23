@@ -28,6 +28,7 @@ and proper data infrasture, as well as empowering people to make better decision
 ### :memo: What I am Currently Working on :memo:
 **PROJECTS**
   * :earth_americas: WorldWeatherAI :earth_asia:
+    
     *Background*: Currently developing an ETL data engineering pipeline that extracts weather data from 10 different countries. Once the data is extracted, it is transformed into clean
     data that can be aggregated several ways to produce insightful and high level visualization. A machine learning model will then be training using this new cleaned data to accurately
     predict future weather events. The entire system is deployed to a web platform, enabling users to access reliable, real-time weather insights as well as historical

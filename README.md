@@ -25,11 +25,28 @@ and proper data infrasture, as well as empowering people to make better decision
 
 #
 
+### :memo: What I am Currently Working on :memo:
+**PROJECTS**
+  * :earth_americas: WorldWeatherAI :earth_asia:
+    *Background*: Currently developing an ETL data engineering pipeline that extracts weather data from 10 different countries. Once the data is extracted, it is transformed into clean
+    data that can be aggregated several ways to produce insightful and high level visualization. A machine learning model will then be training using this new cleaned data to accurately
+    predict future weather events. The entire system is deployed to a web platform, enabling users to access reliable, real-time weather insights as well as historical
+    weather events.
+    *Future Goals*:
+      * To scale this to have hundreds of more locations
+      * Automate the ETL, visualization and machine learning processes
+    
+**Certifications**
+  * AWS Solutions Architect and Data Engineer Associate
+    Currently preparing for the AWS Solutions Architect and Data Engineer Associate certifications. These certifications will deepen my understanding of cloud infrastructure and scalable
+    data engineering solutions, strengthening my ability to design and manage end-to-end data pipelines in cloud environments.
+ 
+
 ### :bookmark_tabs: Certifications :bookmark_tabs:
 *   **[Codecademy - Data Engineer Career Path](https://www.codecademy.com/profiles/garretGallo4815753860/certificates/a0ea6712a909402896de2c6772445311)**
-    *   An in-depth course that taught me the fundamentals of Data Engineering
+    *   An in-depth curriculum that taught me the fundamentals of Data Engineering
 
 *   **[Codecademy - Machine Learning/AI Engineer Career Path](https://www.codecademy.com/profiles/garretGallo4815753860/certificates/6f8e0510ca91437a847b53aa9e9aa3f1)**
-    *   An in-depth course that taught me the fundamentals of ML/AI Engineering
+    *   An in-depth curriculum that taught me the fundamentals of ML/AI Engineering
 
 #

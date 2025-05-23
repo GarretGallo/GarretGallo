@@ -35,7 +35,7 @@ and proper data infrasture, as well as empowering people to make better decision
     weather events.
     
     *Future Goals*:
-      * To scale this to have hundreds of more locations
+      * To scale this project to have hundreds of more locations
       * Automate the ETL, visualization and machine learning processes
     
 **Certifications**

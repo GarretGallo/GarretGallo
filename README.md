@@ -32,12 +32,14 @@ and proper data infrasture, as well as empowering people to make better decision
     data that can be aggregated several ways to produce insightful and high level visualization. A machine learning model will then be training using this new cleaned data to accurately
     predict future weather events. The entire system is deployed to a web platform, enabling users to access reliable, real-time weather insights as well as historical
     weather events.
+    
     *Future Goals*:
       * To scale this to have hundreds of more locations
       * Automate the ETL, visualization and machine learning processes
     
 **Certifications**
   * AWS Solutions Architect and Data Engineer Associate
+    
     Currently preparing for the AWS Solutions Architect and Data Engineer Associate certifications. These certifications will deepen my understanding of cloud infrastructure and scalable
     data engineering solutions, strengthening my ability to design and manage end-to-end data pipelines in cloud environments.
  

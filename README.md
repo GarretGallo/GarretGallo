@@ -26,7 +26,7 @@ and proper data infrasture, as well as empowering people to make better decision
 #
 
 ### :memo: What I am Currently Working on :memo:
-**PROJECTS**
+**Projects**
   * :earth_americas: WorldWeatherAI :earth_asia:
     
     *Background*: Currently developing an ETL data engineering pipeline that extracts weather data from 10 different countries. Once the data is extracted, it is transformed into clean

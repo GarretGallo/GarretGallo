@@ -30,6 +30,13 @@ and proper data infrasture, as well as empowering people to make better decision
 
 #
 
+### :memo: Project Highlights :memo:
+**VGC ETL Pipeline - An Analytical Deepdive**
+  *Overview* : The goal of this project was to create a detail ....
+  *Link to Repository*: https://github.com/GarretGallo/Pokemon_Stats
+
+#
+
 ### :memo: What I am Currently Working on :memo:
 **Projects**
   * :earth_americas: WorldWeatherAI :earth_asia:

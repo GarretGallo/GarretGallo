@@ -33,6 +33,9 @@ and proper data infrasture, as well as empowering people to make better decision
 ### :bar_chart: Project Highlights :bar_chart:
 **VGC ETL Pipeline - An Analytical Deepdive**
   *Link to Repository*: https://github.com/GarretGallo/Pokemon_Stats
+  
+**Gas Monitor ETL Pipeline**
+  *Link to Repository*: https://github.com/GarretGallo/Gas_Monitors
 
 #
 

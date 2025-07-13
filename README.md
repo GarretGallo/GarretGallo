@@ -45,16 +45,14 @@ and proper data infrasture, as well as empowering people to make better decision
 
 ### :memo: What I am Currently Working on :memo:
 **Projects**
-  * :earth_americas: WorldWeatherAI :earth_asia:
+  * :moneybag: Financial Institution :moneybag:
     
-    *Background*: Currently developing an ETL data engineering pipeline that extracts weather data from 10 different countries. Once the data is extracted, it is transformed into clean
-    data that can be aggregated several ways to produce insightful and high level visualization. A machine learning model will then be training using this new cleaned data to accurately
-    predict future weather events. The entire system is deployed to a web platform, enabling users to access reliable, real-time weather insights as well as historical
-    weather events.
+    *Background*: Currently in the planning phase of building a cloud-based data pipeline that a bank or financial institution may use in there daily operations.
     
-    *Future Goals*:
-      * To scale this project to have hundreds of more locations
-      * Automate the ETL, visualization and machine learning processes
+    *Goals*:
+      * Cloud-based (AWS)
+      * Pull multiple different data sets from multiple locations (stocks, transactions, etc)
+      * Have multiple different SQL Layers (Bronze, Silver, Gold)
     
 **Certifications**
   * AWS Solutions Architect and Data Engineer Associate

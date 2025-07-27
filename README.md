@@ -4,9 +4,9 @@
 `Data Engineering` | `Analytics and Visualization` | `Cloud Engineering`
 
 As an engineer I design scalable data systems, transforming unstructured data 
-into optimized pipelines, warehouses, and analytics-ready models. Using my knowlege
-of machine learning, I am able to further enhance my data by helping create accurate
-prediction models to give an additional layer of decision maker. All of the projects I
+into optimized pipelines, warehouses, and analytics-ready models. By leveraging cloud 
+technologies such as AWS, I am able to deliver scalable, production-ready data solutions 
+that enhance performance, reliability, and maintainability. All of the projects I
 have undertake have a singular goal in mind - building ETL systems to ensure data quality
 and proper data infrasture, as well as empowering people to make better decisions.
 

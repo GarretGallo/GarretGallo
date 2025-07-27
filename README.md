@@ -34,6 +34,8 @@ and proper data infrasture, as well as empowering people to make better decision
 #
 
 ### :bar_chart: Project Highlights :bar_chart:
+**Smart City AWS Project**
+
 **Weather ETL Pipeline**
   *Link to Repository*: https://github.com/GarretGallo/Weather_ETL_Pipeline
 

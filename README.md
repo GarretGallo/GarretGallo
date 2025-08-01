@@ -37,6 +37,9 @@ and proper data infrasture, as well as empowering people to make better decision
 **Smart City AWS Project**
   *Link to Repository*: https://github.com/GarretGallo/aws-smart-city-project
 
+**Real-Time Financial Data Warehouse*
+  *Link to Repository*: https://github.com/GarretGallo/realtime_data_warehouse
+
 **VGC Analytics Pipeline**
   *Link to Repository*: https://github.com/GarretGallo/Pokemon_Stats
   

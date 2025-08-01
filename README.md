@@ -37,9 +37,6 @@ and proper data infrasture, as well as empowering people to make better decision
 **Smart City AWS Project**
   *Link to Repository*: https://github.com/GarretGallo/aws-smart-city-project
 
-**Weather ETL Pipeline**
-  *Link to Repository*: https://github.com/GarretGallo/Weather_ETL_Pipeline
-
 **VGC Analytics Pipeline**
   *Link to Repository*: https://github.com/GarretGallo/Pokemon_Stats
   

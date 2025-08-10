@@ -27,8 +27,7 @@ and proper data infrasture, as well as empowering people to make better decision
   <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-  <img alt="Sklearn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-  
+
 </div>
 
 #
@@ -60,6 +59,7 @@ and proper data infrasture, as well as empowering people to make better decision
   * Enhanced Gas Monitor ETL Pipeline
 
     My next major projet will entail using my knowledge of apache tools combined with AWS to build an enhanced version of my Gas Monitor ETL Pipeline
+
     Improvements will consist of:
      - Leveraging AWS Kenesis for real-time streaming
      - Implementing the medallion architecture for cleaner storage utlizing S3 and AWS RDS

@@ -53,14 +53,18 @@ and proper data infrasture, as well as empowering people to make better decision
 
 ### :memo: What I am Currently Working on :memo:
 **Projects**
-  * :moneybag: Financial Institution :moneybag:
+  * Music Streaming Platform AWS Project
+
+    Currently working on implementing AWS SNS + Lambda + Glue ETL Functionality for more integrated automation and orchestration
     
-    *Background*: Currently in the planning phase of building a cloud-based data pipeline that a bank or financial institution may use in there daily operations.
+  * Enhanced Gas Monitor ETL Pipeline
+
+    My next major projet will entail using my knowledge of apache tools combined with AWS to build an enhanced version of my Gas Monitor ETL Pipeline
+    Improvements will consist of:
+     - Leveraging AWS Kenesis for real-time streaming
+     - Implementing the medallion architecture for cleaner storage utlizing S3 and AWS RDS
+     - Improved scalability
     
-    *Goals*:
-      * Cloud-based (AWS)
-      * Pull multiple different data sets from multiple locations (stocks, transactions, etc)
-      * Have multiple different SQL Layers (Bronze, Silver, Gold)
     
 **Certifications**
   * AWS Solutions Architect and Data Engineer Associate
@@ -77,4 +81,4 @@ and proper data infrasture, as well as empowering people to make better decision
 *   **[Codecademy - Machine Learning/AI Engineer Career Path](https://www.codecademy.com/profiles/garretGallo4815753860/certificates/6f8e0510ca91437a847b53aa9e9aa3f1)**
     *   An in-depth curriculum that taught me the fundamentals of ML/AI Engineering
 
-#
+#  

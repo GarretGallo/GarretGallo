@@ -52,18 +52,7 @@ and proper data infrasture, as well as empowering people to make better decision
 
 ### :memo: What I am Currently Working on :memo:
 **Projects**
-  * Music Streaming Platform AWS Project
-
-    Currently working on implementing AWS SNS + Lambda + Glue ETL Functionality for more integrated automation and orchestration
     
-  * Enhanced Gas Monitor ETL Pipeline
-
-    My next major projet will entail using my knowledge of apache tools combined with AWS to build an enhanced version of my Gas Monitor ETL Pipeline
-
-    Improvements will consist of:
-     - Leveraging AWS Kenesis for real-time streaming
-     - Implementing the medallion architecture for cleaner storage utlizing S3 and AWS RDS
-     - Improved scalability
     
     
 **Certifications**

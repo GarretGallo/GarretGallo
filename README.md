@@ -57,9 +57,6 @@ and proper data infrasture, as well as empowering people to make better decision
     
 **Certifications**
   * AWS Solutions Architect and Data Engineer Associate
-    
-    Currently preparing for the AWS Solutions Architect and Data Engineer Associate certifications. These certifications will deepen my understanding of cloud infrastructure and scalable
-    data engineering solutions, strengthening my ability to design and manage end-to-end data pipelines in cloud environments.
 
  #
 
@@ -67,7 +64,5 @@ and proper data infrasture, as well as empowering people to make better decision
 *   **[Codecademy - Data Engineer Career Path](https://www.codecademy.com/profiles/garretGallo4815753860/certificates/a0ea6712a909402896de2c6772445311)**
     *   An in-depth curriculum that taught me the fundamentals of Data Engineering
 
-*   **[Codecademy - Machine Learning/AI Engineer Career Path](https://www.codecademy.com/profiles/garretGallo4815753860/certificates/6f8e0510ca91437a847b53aa9e9aa3f1)**
-    *   An in-depth curriculum that taught me the fundamentals of ML/AI Engineering
 
 #  

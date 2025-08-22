@@ -52,6 +52,8 @@ and proper data infrasture, as well as empowering people to make better decision
 
 ### :memo: What I am Currently Working on :memo:
 **Projects**
+  * Financial Instituion
+    Goal: Design and implement a financial data pipeline capable of ingesting and processing a wide range of data, including transactions, account details, customer profiles, employee records, and branch location information.
     
     
     

@@ -34,14 +34,14 @@ and proper data infrasture, as well as empowering people to make better decision
 #
 
 ### :bar_chart: Project Highlights :bar_chart:
+**Real-Time Financial Institution ETL Pipeline**
+  *Link to Repository*: https://github.com/GarretGallo/InstitutionFinancial
+
 **Music Streaming Platform AWS Project**
   *Link to Repository*: https://github.com/GarretGallo/MusicStreamingPlatform
 
 **Smart City AWS Project**
   *Link to Repository*: https://github.com/GarretGallo/aws-smart-city-project
-
-**Real-Time Financial Institution ETL Pipeline**
-  *Link to Repository*: https://github.com/GarretGallo/InstitutionFinancial
 
 **VGC Analytics Pipeline**
   *Link to Repository*: https://github.com/GarretGallo/Pokemon_Stats

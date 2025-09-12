@@ -2,7 +2,7 @@
   <tr>
     <!-- Left: Intro -->
     <td style="width:65%; vertical-align: top;">
-      
+
 # Garret Gallo
 
 ### :construction_worker: **`Digital Data Craftsman`**  
@@ -15,10 +15,10 @@ that enhance performance, reliability, and maintainability. All of the projects 
 have undertaken have a singular goal in mind – building ETL systems to ensure data quality
 and proper data infrastructure, as well as empowering people to make better decisions.
 
-    </td>
+</td>
 
-    <!-- Right: Certifications -->
-    <td style="width:35%; vertical-align: top; text-align: right;">
+<!-- Right: Certifications -->
+<td style="width:35%; vertical-align: top; text-align: right;">
 
 ### 📜 Certifications
 - AWS Solutions Architect – Associate  
@@ -26,9 +26,10 @@ and proper data infrastructure, as well as empowering people to make better deci
 - Databricks Data Engineer Associate  
 - Python Institute PCEP  
 
-    </td>
+</td>
   </tr>
 </table>
+
 
 ### :hammer: Toolkit :hammer:
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">

@@ -42,7 +42,6 @@ and proper data infrastructure, as well as empowering people to make better deci
   </tr>
 </table>
 
-
 #
 
 ### :bar_chart: Project Highlights :bar_chart:

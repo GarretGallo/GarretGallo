@@ -41,7 +41,7 @@ and proper data infrastructure, as well as empowering people to make better deci
 <td style="width:35%; vertical-align: top; text-align: right;">
 
 ### Certifications
-<img src="image.png" width="120" />
+<img src="image.png" width="100" />
 
 </td>
   </tr>
@@ -66,9 +66,3 @@ and proper data infrastructure, as well as empowering people to make better deci
   *Link to Repository*: https://github.com/GarretGallo/Gas_Monitors
 
 #
-
-### :memo: What I am Currently Working on :memo:
-**Projects**
-  * Financial Instituion 
-
-    Goal: Design and implement a financial data pipeline capable of ingesting and processing a wide range of data, including transactions, account details, customer profiles, employee records, and branch location information.

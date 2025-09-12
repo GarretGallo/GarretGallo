@@ -20,7 +20,7 @@ and proper data infrastructure, as well as empowering people to make better deci
 <!-- Right: Certifications -->
 <td style="width:35%; vertical-align: top; text-align: right;">
 
-### 📜 Certifications
+### Certifications
 <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Data-Engineer-Associate_badge.png" width="120" />  
 
 </td>

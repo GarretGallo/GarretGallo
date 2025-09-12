@@ -1,3 +1,8 @@
+<table style="width:100%;">
+  <tr>
+    <!-- Left: Intro -->
+    <td style="width:65%; vertical-align: top;">
+      
 # Garret Gallo
 
 ### :construction_worker: **`Digital Data Craftsman`**  
@@ -7,10 +12,23 @@ As an engineer I design scalable data systems, transforming unstructured data
 into optimized pipelines, warehouses, and analytics-ready models. By leveraging cloud 
 technologies such as AWS, I am able to deliver scalable, production-ready data solutions 
 that enhance performance, reliability, and maintainability. All of the projects I
-have undertake have a singular goal in mind - building ETL systems to ensure data quality
-and proper data infrasture, as well as empowering people to make better decisions.
+have undertaken have a singular goal in mind – building ETL systems to ensure data quality
+and proper data infrastructure, as well as empowering people to make better decisions.
 
-#
+    </td>
+
+    <!-- Right: Certifications -->
+    <td style="width:35%; vertical-align: top; text-align: right;">
+
+### 📜 Certifications
+- AWS Solutions Architect – Associate  
+- AWS Data Engineer – Associate  
+- Databricks Data Engineer Associate  
+- Python Institute PCEP  
+
+    </td>
+  </tr>
+</table>
 
 ### :hammer: Toolkit :hammer:
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">

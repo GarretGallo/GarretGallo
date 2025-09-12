@@ -1,8 +1,3 @@
-<table style="width:100%;">
-  <tr>
-    <!-- Left: Intro -->
-    <td style="width:65%; vertical-align: top;">
-
 # Garret Gallo
 
 ### :construction_worker: **`Digital Data Craftsman`**  
@@ -17,18 +12,11 @@ and proper data infrastructure, as well as empowering people to make better deci
 
 </td>
 
-<!-- Right: Certifications -->
-<td style="width:35%; vertical-align: top; text-align: right;">
-
-### Certifications
-<img src="pictures/iamge.png" width="120" />
-<img src="image.png" width="120" />
-
-</td>
-  </tr>
-</table>
-
-
+<table style="width:100%;">
+  <tr>
+    <!-- Left: Intro -->
+    <td style="width:65%; vertical-align: top;">
+      
 ### :hammer: Toolkit :hammer:
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
@@ -47,6 +35,17 @@ and proper data infrastructure, as well as empowering people to make better deci
   <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 
 </div>
+
+
+<!-- Right: Certifications -->
+<td style="width:35%; vertical-align: top; text-align: right;">
+
+### Certifications
+<img src="image.png" width="120" />
+
+</td>
+  </tr>
+</table>
 
 #
 

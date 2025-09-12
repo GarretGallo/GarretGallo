@@ -21,10 +21,7 @@ and proper data infrastructure, as well as empowering people to make better deci
 <td style="width:35%; vertical-align: top; text-align: right;">
 
 ### 📜 Certifications
-- AWS Solutions Architect – Associate  
-- AWS Data Engineer – Associate  
-- Databricks Data Engineer Associate  
-- Python Institute PCEP  
+![AWS Data Engineer](https://img.shields.io/badge/AWS-Data%20Engineer%20--%20Associate-blue?logo=amazon-aws&logoColor=white)  
 
 </td>
   </tr>

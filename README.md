@@ -21,7 +21,7 @@ and proper data infrastructure, as well as empowering people to make better deci
 <td style="width:35%; vertical-align: top; text-align: right;">
 
 ### 📜 Certifications
-![AWS Data Engineer](https://img.shields.io/badge/AWS-Data%20Engineer%20--%20Associate-blue?logo=amazon-aws&logoColor=white)  
+<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Data-Engineer-Associate_badge.png" width="120" />  
 
 </td>
   </tr>

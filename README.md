@@ -41,19 +41,14 @@ and proper data infrastructure, as well as empowering people to make better deci
     <td style="width:32%; vertical-align: top; text-align:center;">
 
 ### 🎓 Certifications
-<table style="margin: 6px auto 0;">
-  <tr>
-    <td align="center" style="padding:6px 10px;">
-      <!-- Replace image.png with your raw image URL or the file in your repo -->
-      <img src="image.png" width="120"/><br/>
-      <sub><b>AWS Data Engineer Associate</b></sub>
-    </td>
-  </tr>
-</table>
+<img src="1c40c335-4d79-4021-9a44-d637a1917473.png" width="120"/><br/>
+<sub><b>AWS Data Engineer Associate</b></sub>
 
     </td>
   </tr>
 </table>
+
+
 
 ---
 

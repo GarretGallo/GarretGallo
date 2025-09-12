@@ -1,3 +1,8 @@
+<table style="width:100%;">
+  <tr>
+    <!-- Left: Intro -->
+    <td style="width:65%; vertical-align: top;">
+
 # Garret Gallo
 
 ### :construction_worker: **`Digital Data Craftsman`**  
@@ -10,12 +15,19 @@ that enhance performance, reliability, and maintainability. All of the projects 
 have undertaken have a singular goal in mind – building ETL systems to ensure data quality
 and proper data infrastructure, as well as empowering people to make better decisions.
 
----
+</td>
 
-<table style="width:100%;">
-  <tr>
-    <!-- Toolkit on the left -->
-    <td style="width:70%; vertical-align: top;">
+<!-- Right: Certifications -->
+<td style="width:35%; vertical-align: top; text-align: right;">
+
+### Certifications
+<img src="pictures/iamge.png" width="120" />
+<img src="image.png" width="120" />
+
+</td>
+  </tr>
+</table>
+
 
 ### :hammer: Toolkit :hammer:
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
@@ -33,22 +45,10 @@ and proper data infrastructure, as well as empowering people to make better deci
   <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+
 </div>
 
-    </td>
-
-    <!-- Certifications on the right -->
-    <td style="width:30%; vertical-align: top; text-align: center;">
-
-### 📜 Certifications 📜  
-<img src="806fdcc5-5ee3-4094-812e-c492c5f913b9.png" width="120" /><br/>
-<sub><b>AWS Data Engineer Associate</b></sub>
-
-    </td>
-  </tr>
-</table>
-
-
+#
 
 ### :bar_chart: Project Highlights :bar_chart:
 **Real-Time Financial Institution ETL Pipeline**

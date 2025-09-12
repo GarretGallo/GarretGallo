@@ -40,13 +40,14 @@ and proper data infrastructure, as well as empowering people to make better deci
     <!-- Certifications on the right -->
     <td style="width:30%; vertical-align: top; text-align: center;">
 
-### 📜 Certifications 📜
-<img src="79521575-7e41-421c-ac13-2076f70e1614.png" width="120" /><br/>
+### 📜 Certifications 📜  
+<img src="806fdcc5-5ee3-4094-812e-c492c5f913b9.png" width="120" /><br/>
 <sub><b>AWS Data Engineer Associate</b></sub>
 
     </td>
   </tr>
 </table>
+
 
 
 ### :bar_chart: Project Highlights :bar_chart:

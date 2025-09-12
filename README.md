@@ -10,6 +10,8 @@ that enhance performance, reliability, and maintainability. All of the projects 
 have undertaken have a singular goal in mind – building ETL systems to ensure data quality
 and proper data infrastructure, as well as empowering people to make better decisions.
 
+#
+
 </td>
 
 <table style="width:100%;">

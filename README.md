@@ -72,17 +72,3 @@ and proper data infrastructure, as well as empowering people to make better deci
   * Financial Instituion 
 
     Goal: Design and implement a financial data pipeline capable of ingesting and processing a wide range of data, including transactions, account details, customer profiles, employee records, and branch location information.
-    
-    
-    
-**Certifications**
-  * AWS Solutions Architect and Data Engineer Associate
-
- #
-
-### :bookmark_tabs: Certifications :bookmark_tabs:
-*   **[Codecademy - Data Engineer Career Path](https://www.codecademy.com/profiles/garretGallo4815753860/certificates/a0ea6712a909402896de2c6772445311)**
-    *   An in-depth curriculum that taught me the fundamentals of Data Engineering
-
-
-#  

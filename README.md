@@ -21,7 +21,7 @@ and proper data infrastructure, as well as empowering people to make better deci
 <td style="width:35%; vertical-align: top; text-align: right;">
 
 ### Certifications
-<img src="pictures/iamge.png" width="120" />
+<img src="image.png" width="120" />
 
 </td>
   </tr>

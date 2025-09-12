@@ -22,7 +22,6 @@ and proper data infrastructure, as well as empowering people to make better deci
 
 ### Certifications
 <img src="pictures/iamge.png" width="120" />
-<img src="pictures/image.png" width="120" />
 
 </td>
   </tr>

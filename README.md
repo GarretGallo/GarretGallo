@@ -3,7 +3,7 @@
 ### :construction_worker: **`Digital Data Craftsman`**  
 `Data Engineering` | `Analytics and Visualization` | `Cloud Engineering`
 
-As an engineer I design scalable data systems, transforming unstructured data 
+As a data and analytics engineer I design scalable data systems, transforming unstructured data 
 into optimized pipelines, warehouses, and analytics-ready models. By leveraging cloud 
 technologies such as AWS, I am able to deliver scalable, production-ready data solutions 
 that enhance performance, reliability, and maintainability. All of the projects I

@@ -21,7 +21,7 @@ data quality and proper data infrastructure, as well as empowering people to mak
 <table style="width:100%;">
   <tr>
     <!-- Left: Intro -->
-    <td style="width:65%; vertical-align: top;">
+    <td style="width:65%; vertical-align: center;">
       
 ### :hammer: Toolkit :hammer:
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
@@ -57,18 +57,25 @@ data quality and proper data infrastructure, as well as empowering people to mak
 
 ### :bar_chart: Project Highlights :bar_chart:
 **Real-Time Financial Institution ETL Pipeline**
-  *Link to Repository*: https://github.com/GarretGallo/InstitutionFinancial
+  - *Link to Repository*: https://github.com/GarretGallo/InstitutionFinancial
 
 **Music Streaming Platform AWS Project**
-  *Link to Repository*: https://github.com/GarretGallo/MusicStreamingPlatform
+  - *Link to Repository*: https://github.com/GarretGallo/MusicStreamingPlatform
 
 **Smart City AWS Project**
-  *Link to Repository*: https://github.com/GarretGallo/aws-smart-city-project
+  - *Link to Repository*: https://github.com/GarretGallo/aws-smart-city-project
 
 **VGC Analytics Pipeline**
-  *Link to Repository*: https://github.com/GarretGallo/Pokemon_Stats
+  - *Link to Repository*: https://github.com/GarretGallo/Pokemon_Stats
 
 **Gas Monitor ETL Pipeline**
-  *Link to Repository*: https://github.com/GarretGallo/Gas_Monitors
+  - *Link to Repository*: https://github.com/GarretGallo/Gas_Monitors
 
 #
+
+### :hammer: What I am Currently Working on :hammer:
+**Certifications**
+  - DataBricks Apache Spark Developer
+
+**Projects**
+ - Enhanced Gas Monitor ETL Pipeline

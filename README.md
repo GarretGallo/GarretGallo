@@ -79,8 +79,7 @@ data quality and proper data infrastructure, as well as empowering people to mak
       <div align="center" style="margin-bottom:6px;"><strong>🎵 Music Streaming Platform AWS Project</strong></div>
       <p style="margin:10px 0 10px 0;">
       </p>
-        Scalable AWS platform for ingesting & analyzing playback data with AWS(S3, Glue, Athena) 
-      as well as Kafka and Spark for streaming and process data.
+        Scalable AWS platform for ingesting & analyzing playback data with AWS, Kafka and Spark.
       </p>
         <!-- Technologies Used -->
       <div align="center" style="margin:8px 0;">

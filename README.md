@@ -106,6 +106,7 @@ data quality and proper data infrastructure, as well as empowering people to mak
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="24" title="Apache Spark"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="24" title="Apache Kafka"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="24" title="Docker"/>
       </div>
       🔗 <a href="https://github.com/GarretGallo/aws-smart-city-project">View Repo</a>
     </td>

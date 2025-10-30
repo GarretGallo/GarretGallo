@@ -36,8 +36,8 @@ data quality and proper data infrastructure, as well as empowering people to mak
   <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img alt="DBeaver" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
   <img alt="Terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" />
-  <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
   <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 
 </div>
@@ -56,137 +56,95 @@ data quality and proper data infrastructure, as well as empowering people to mak
 #
 
 ### :bar_chart: Project Highlights :bar_chart:
-<h2>📊 Project Highlights</h2>
-
-<div style="
-  display: flex;
-  gap: 16px;
-  flex-wrap: wrap;
-  justify-content: center;
-  background: #0d1117;
-  padding: 16px 0;
-">
-  <!-- Card 1 -->
-  <div style="
-    background: #111827;
-    border: 1px solid #1f2937;
-    border-radius: 14px;
-    padding: 18px 18px 14px;
-    width: 320px;
-    min-height: 190px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  ">
-    <div>
-      <h3 style="margin: 0 0 6px; font-size: 1.05rem;">💰 Real-Time Financial Institution ETL Pipeline</h3>
-      <p style="margin: 0; font-size: 0.9rem; color: #d1d5db;">
+<table style="width:100%; border-collapse:collapse;">
+  <!-- ROW 1 -->
+  <tr>
+    <td valign="top" style="width:33%; padding:14px 12px; border:1px solid #30363d;">
+      <div align="center" style="margin-bottom:6px;"><strong>💰 Real-Time Financial Institution ETL Pipeline</strong></div>
+      <p style="margin:10px 0 10px 0;">
+      </p>
         Real-time ETL simulating financial transactions using AWS S3, Glue, Redshift, and Kinesis.
       </p>
-    </div>
-    <a href="https://github.com/GarretGallo/InstitutionFinancial" style="margin-top: 10px; font-size: 0.9rem; color: #60a5fa; text-decoration: none;">
-      🔗 View Repository
-    </a>
-  </div>
-
-  <!-- Card 2 -->
-  <div style="
-    background: #111827;
-    border: 1px solid #1f2937;
-    border-radius: 14px;
-    padding: 18px 18px 14px;
-    width: 320px;
-    min-height: 190px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  ">
-    <div>
-      <h3 style="margin: 0 0 6px; font-size: 1.05rem;">🎵 Music Streaming Platform AWS Project</h3>
-      <p style="margin: 0; font-size: 0.9rem; color: #d1d5db;">
-        Scalable AWS platform for ingesting and analyzing playback data with S3, Glue, Athena, QuickSight.
+      <!-- Technologies Used -->
+      <div align="center" style="margin:8px 0;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="24" title="AWS"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="24" title="DBeaver"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width="24" title="Terraform"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="24" title="ElasticSearch"/>
+      </div>
+      🔗 <a href="https://github.com/GarretGallo/InstitutionFinancial">View Repo</a>
+    </td>
+    <td valign="top" style="width:33%; padding:14px 12px; border:1px solid #30363d;">
+      <div align="center" style="margin-bottom:6px;"><strong>🎵 Music Streaming Platform AWS Project</strong></div>
+      <p style="margin:10px 0 10px 0;">
       </p>
-    </div>
-    <a href="https://github.com/GarretGallo/MusicStreamingPlatform" style="margin-top: 10px; font-size: 0.9rem; color: #60a5fa; text-decoration: none;">
-      🔗 View Repository
-    </a>
-  </div>
-
-  <!-- Card 3 -->
-  <div style="
-    background: #111827;
-    border: 1px solid #1f2937;
-    border-radius: 14px;
-    padding: 18px 18px 14px;
-    width: 320px;
-    min-height: 190px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  ">
-    <div>
-      <h3 style="margin: 0 0 6px; font-size: 1.05rem;">🏙️ Smart City AWS Project</h3>
-      <p style="margin: 0; font-size: 0.9rem; color: #d1d5db;">
+        Scalable AWS platform for ingesting & analyzing playback data with AWS(S3, Glue, Athena) 
+      as well as Kafka and Spark for streaming and process data.
+      </p>
+        <!-- Technologies Used -->
+      <div align="center" style="margin:8px 0;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="24" title="AWS"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="24" title="Apache Airflow"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="24" title="Apache Spark"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="24" title="Apache Kafka"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="24" title="Docker"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="24" title="DBeaver"/>
+      </div>
+      🔗 <a href="https://github.com/GarretGallo/MusicStreamingPlatform">View Repo</a>
+    </td>
+    <td valign="top" style="width:33%; padding:14px 12px; border:1px solid #30363d;">
+      <div align="center" style="margin-bottom:6px;"><strong>🏙️ Smart City AWS Project</strong></div>
+      <p style="margin:10px 0 10px 0;">
+      </p>
         Simulated IoT streams for traffic, weather, and emergency systems using Kafka, Spark, and AWS.
       </p>
-    </div>
-    <a href="https://github.com/GarretGallo/aws-smart-city-project" style="margin-top: 10px; font-size: 0.9rem; color: #60a5fa; text-decoration: none;">
-      🔗 View Repository
-    </a>
-  </div>
+    <!-- Technologies Used -->
+      <div align="center" style="margin:8px 0;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="24" title="AWS"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="24" title="Apache Spark"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="24" title="Apache Kafka"/>
+      </div>
+      🔗 <a href="https://github.com/GarretGallo/aws-smart-city-project">View Repo</a>
+    </td>
+  </tr>
 
-  <!-- Card 4 -->
-  <div style="
-    background: #111827;
-    border: 1px solid #1f2937;
-    border-radius: 14px;
-    padding: 18px 18px 14px;
-    width: 320px;
-    min-height: 190px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  ">
-    <div>
-      <h3 style="margin: 0 0 6px; font-size: 1.05rem;">📈 VGC Analytics Pipeline</h3>
-      <p style="margin: 0; font-size: 0.9rem; color: #d1d5db;">
-        Analyzed 38K+ teams and 225K+ Pokémon using Python, MySQL, and Power BI for usage insights.
+  <!-- ROW 2 -->
+  <tr>
+    <td valign="top" style="width:50%; padding:14px 12px; border:1px solid #30363d;">
+      <div align="center" style="margin-bottom:6px;"><strong>📈 VGC Analytics Pipeline</strong></div>
+      <p style="margin:10px 0 10px 0;">
       </p>
-    </div>
-    <a href="https://github.com/GarretGallo/Pokemon_Stats" style="margin-top: 10px; font-size: 0.9rem; color: #60a5fa; text-decoration: none;">
-      🔗 View Repository
-    </a>
-  </div>
-
-  <!-- Card 5 -->
-  <div style="
-    background: #111827;
-    border: 1px solid #1f2937;
-    border-radius: 14px;
-    padding: 18px 18px 14px;
-    width: 320px;
-    min-height: 190px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  ">
-    <div>
-      <h3 style="margin: 0 0 6px; font-size: 1.05rem;">🧪 Gas Monitor ETL Pipeline</h3>
-      <p style="margin: 0; font-size: 0.9rem; color: #d1d5db;">
-        ETL for H₂S sensor data into MySQL + Power BI to monitor field readings in near real time.
+        Analyzed 38K+ teams & 225K+ Pokémon from over 75 major tournaments using Python, MySQL, and Power BI.
       </p>
-    </div>
-    <a href="https://github.com/GarretGallo/Gas_Monitors" style="margin-top: 10px; font-size: 0.9rem; color: #60a5fa; text-decoration: none;">
-      🔗 View Repository
-    </a>
-  </div>
-
-</div>
+      <!-- Technologies Used -->
+      <div align="center" style="margin:8px 0;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="24" title="Pandas"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="24" title="MySQL"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="24" title="Power BI"/>
+      </div>
+      🔗 <a href="https://github.com/GarretGallo/Pokemon_Stats">View Repo</a>
+    </td>
+    <td valign="top" style="width:50%; padding:14px 12px; border:1px solid #30363d;">
+      <div align="center" style="margin-bottom:6px;"><strong>🧪 Gas Monitor ETL Pipeline</strong></div>
+      <p style="margin:10px 0 10px 0;">
+      </p>
+        ETL for H₂S sensor data into MySQL + Power BI for real-time monitoring.
+      </p>
+      <!-- Technologies Used -->
+      <div align="center" style="margin:8px 0;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="24" title="Pandas"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="24" title="MySQL"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="24" title="Power BI"/>
+      </div>
+      🔗 <a href="https://github.com/GarretGallo/Gas_Monitors">View Repo</a>
+    </td>
+  </tr>
+</table>
 
 #
 

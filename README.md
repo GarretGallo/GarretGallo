@@ -3,12 +3,16 @@
 ### :construction_worker: **`Digital Data Craftsman`**  
 `Data Engineering` | `Analytics and Visualization` | `Cloud Engineering`
 
-As a data and analytics engineer I design scalable data systems, transforming unstructured data 
-into optimized pipelines, warehouses, and analytics-ready models. By leveraging cloud 
-technologies such as AWS, I am able to deliver scalable, production-ready data solutions 
-that enhance performance, reliability, and maintainability. All of the projects I
-have undertaken have a singular goal in mind – building ETL systems to ensure data quality
-and proper data infrastructure, as well as empowering people to make better decisions.
+As a data and analytics engineer, I design scalable data infrastructures by transforming 
+raw and unstructured data into optimized pipelines, warehouses, and analytics-ready models. 
+
+I’ve built end-to-end pipelines with Python and SQL, orchestrated workflows with Apache Airflow, 
+and implemented distributed streaming and transformations with Apache Kafka and Spark. I’ve also 
+designed scalable storage solutions across PostgreSQL, MongoDB, DynamoDB, S3, and Redshift, and 
+deliver business-ready insights through Power BI.
+
+All of the projects I have undertaken have a singular goal in mind – building ETL systems to ensure 
+data quality and proper data infrastructure, as well as empowering people to make better data-driven decisions.
 
 #
 

@@ -34,7 +34,7 @@ prepare high-qualilty data for machine learning and AI applications.
       </p>
       <!-- Technologies Used -->
       <p align="center">
-            <em>Toolkit Overview</em>
+            <em>Techstack</em>
             <br>
             <img src="ToolkitFinancial.png" width="200" />
             <br>
@@ -49,7 +49,7 @@ prepare high-qualilty data for machine learning and AI applications.
       </p>
         <!-- Technologies Used -->
       <p align="center">
-            <em>Toolkit Overview</em>
+            <em>Techstack</em>
             <br>
             <img src="ToolkitMusic.png" width="250" />
             <br>
@@ -64,7 +64,7 @@ prepare high-qualilty data for machine learning and AI applications.
       </p>
     <!-- Technologies Used -->
       <p align="center">
-            <em>Toolkit Overview</em>
+            <em>Techstack</em>
             <br>
             <img src="ToolkitSmartCity.png" width="200" />
             <br>
@@ -83,7 +83,7 @@ prepare high-qualilty data for machine learning and AI applications.
       </p>
       <!-- Technologies Used -->
       <p align="center">
-            <em>Toolkit Overview</em>
+            <em>Techstack</em>
             <br>
             <img src="ToolkitVGC.png" width="150" />
             <br>
@@ -98,7 +98,7 @@ prepare high-qualilty data for machine learning and AI applications.
       </p>
       <!-- Technologies Used -->
       <p align="center">
-            <em>Toolkit Overview</em>
+            <em>Techstack</em>
             <br>
             <img src="ToolkitGas.png" width="150" />
             <br>

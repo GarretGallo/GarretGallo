@@ -15,16 +15,9 @@ All of the projects I have undertaken have a singular goal in mind – building 
 data quality and proper data infrastructure, as well as empowering people to make better data-driven decisions.
 
 #
-
-</td>
-
-<table style="width:100%;">
-  <tr>
-    <!-- Left: Intro -->
-    <td style="width:65%; vertical-align: center;">
       
 ### :hammer: Toolkit :hammer:
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center; background-color: white; padding: 16px; border-radius: 12px;">
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img alt="Airflow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
@@ -39,19 +32,10 @@ data quality and proper data infrastructure, as well as empowering people to mak
   <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
   <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-
 </div>
 
-
-<!-- Right: Certifications -->
-<td style="width:35%; vertical-align: top; text-align: right;">
-
-### Certifications
+### :page_with_curl: Certifications :page_with_curl:
 <img src="image.png" width="100" />
-
-</td>
-  </tr>
-</table>
 
 #
 
@@ -145,6 +129,12 @@ data quality and proper data infrastructure, as well as empowering people to mak
     </td>
   </tr>
 </table>
+
+#
+
+### :newspaper: My Latest Articles on Medium :newspaper:
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/1" alt="Recent Article 1"></a>
 
 #
 

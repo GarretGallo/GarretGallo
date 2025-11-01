@@ -35,14 +35,13 @@ data quality and proper data infrastructure, as well as empowering people to mak
         Real-time ETL simulating financial transactions using AWS S3, Glue, Redshift, and Kinesis.
       </p>
       <!-- Technologies Used -->
-      <div align="center" style="margin:8px 0;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="24" title="AWS"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="24" title="DBeaver"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width="24" title="Terraform"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="24" title="ElasticSearch"/>
-      </div>
-      🔗 <a href="https://github.com/GarretGallo/InstitutionFinancial">View Repo</a>
+      <p align="center">
+            <em>Toolkit Overview</em>
+            <br>
+            <img src="ToolkitFinancial.png" width="150" />
+            <br>
+            🔗 <a href="https://github.com/GarretGallo/InstitutionFinancial">View Repo</a>
+            </p>
     </td>
     <td valign="top" style="width:33%; padding:14px 12px; border:1px solid #30363d;">
       <div align="center" style="margin-bottom:6px;"><strong>🎵 Music Streaming Platform AWS Project</strong></div>

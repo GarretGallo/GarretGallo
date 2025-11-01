@@ -38,7 +38,7 @@ data quality and proper data infrastructure, as well as empowering people to mak
       <p align="center">
             <em>Toolkit Overview</em>
             <br>
-            <img src="ToolkitFinancial.png" width="150" />
+            <img src="ToolkitFinancial.png" width="200" />
             <br>
             🔗 <a href="https://github.com/GarretGallo/InstitutionFinancial">View Repo</a>
             </p>
@@ -50,16 +50,13 @@ data quality and proper data infrastructure, as well as empowering people to mak
         Scalable AWS platform for ingesting & analyzing playback data with AWS, Kafka and Spark.
       </p>
         <!-- Technologies Used -->
-      <div align="center" style="margin:8px 0;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="24" title="AWS"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="24" title="Apache Airflow"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="24" title="Apache Spark"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="24" title="Apache Kafka"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="24" title="Docker"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="24" title="DBeaver"/>
-      </div>
-      🔗 <a href="https://github.com/GarretGallo/MusicStreamingPlatform">View Repo</a>
+      <p align="center">
+            <em>Toolkit Overview</em>
+            <br>
+            <img src="ToolkitMusic.png" width="250" />
+            <br>
+            🔗 <a href="https://github.com/GarretGallo/MusicStreamingPlatform">View Repo</a>
+            </p>
     </td>
     <td valign="top" style="width:33%; padding:14px 12px; border:1px solid #30363d;">
       <div align="center" style="margin-bottom:6px;"><strong>🏙️ Smart City AWS Project</strong></div>
@@ -68,14 +65,13 @@ data quality and proper data infrastructure, as well as empowering people to mak
         Simulated IoT streams for traffic, weather, and emergency systems using Kafka, Spark, and AWS.
       </p>
     <!-- Technologies Used -->
-      <div align="center" style="margin:8px 0;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="24" title="AWS"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="24" title="Apache Spark"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="24" title="Apache Kafka"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="24" title="Docker"/>
-      </div>
-      🔗 <a href="https://github.com/GarretGallo/aws-smart-city-project">View Repo</a>
+      <p align="center">
+            <em>Toolkit Overview</em>
+            <br>
+            <img src="ToolkitSmartCity.png" width="200" />
+            <br>
+            🔗 <a href="https://github.com/GarretGallo/aws-smart-city-project">View Repo</a>
+            </p>
     </td>
   </tr>
 
@@ -88,13 +84,13 @@ data quality and proper data infrastructure, as well as empowering people to mak
         Analyzed 38K+ teams & 225K+ Pokémon from over 75 major tournaments using Python, MySQL, and Power BI.
       </p>
       <!-- Technologies Used -->
-      <div align="center" style="margin:8px 0;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="24" title="Pandas"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="24" title="MySQL"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="24" title="Power BI"/>
-      </div>
-      🔗 <a href="https://github.com/GarretGallo/Pokemon_Stats">View Repo</a>
+      <p align="center">
+            <em>Toolkit Overview</em>
+            <br>
+            <img src="ToolkitVGC.png" width="150" />
+            <br>
+            🔗 <a href="https://github.com/GarretGallo/Pokemon_Stats">View Repo</a>
+            </p>
     </td>
     <td valign="top" style="width:50%; padding:14px 12px; border:1px solid #30363d;">
       <div align="center" style="margin-bottom:6px;"><strong>🧪 Gas Monitor ETL Pipeline</strong></div>
@@ -103,13 +99,13 @@ data quality and proper data infrastructure, as well as empowering people to mak
         ETL for H₂S sensor data into MySQL + Power BI for real-time monitoring.
       </p>
       <!-- Technologies Used -->
-      <div align="center" style="margin:8px 0;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="24" title="Pandas"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="24" title="MySQL"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="24" title="Power BI"/>
-      </div>
-      🔗 <a href="https://github.com/GarretGallo/Gas_Monitors">View Repo</a>
+      <p align="center">
+            <em>Toolkit Overview</em>
+            <br>
+            <img src="ToolkitGas.png" width="150" />
+            <br>
+            🔗 <a href="https://github.com/GarretGallo/Gas_Monitors">View Repo</a>
+            </p>
     </td>
   </tr>
 </table>

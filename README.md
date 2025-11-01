@@ -1,6 +1,6 @@
 # Garret Gallo
 
-### :construction_worker: **`Digital Data Craftsman`**  
+### **`Digital Data Craftsman`**  
 `Data Engineering` | `Analytics and Visualization` | `Cloud Engineering`
 
 As a data and analytics engineer, I design scalable data infrastructures by transforming 

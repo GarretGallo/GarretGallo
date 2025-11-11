@@ -18,7 +18,10 @@ prepare high-qualilty data for machine learning and AI applications.
 <img src="Toolkit.png" width="1000" />
 
 ### :page_with_curl: Certifications :page_with_curl:
-<img src="image.png" width="100" />
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="image.png" width="100" />
+  <img src="fundamentals-badge-databricks-2x_1.png" width="85" />
+</div>
 
 #
 

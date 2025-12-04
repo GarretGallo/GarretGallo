@@ -94,7 +94,7 @@ prepare high-qualilty data for machine learning and AI applications.
             </p>
     </td>
     <td valign="top" style="width:50%; padding:14px 12px; border:1px solid #30363d;">
-      <div align="center" style="margin-bottom:6px;"><strong>🧪 Gas Monitor ETL Pipeline</strong></div>
+      <div align="center" style="margin-bottom:6px;"><strong>🧪 IoT Gas Monitor Data Pipeline</strong></div>
       <p style="margin:10px 0 10px 0;">
       </p>
         ETL for H₂S sensor data into MySQL + Power BI for real-time monitoring.
@@ -105,7 +105,7 @@ prepare high-qualilty data for machine learning and AI applications.
             <br>
             <img src="ToolkitGas.png" width="150" />
             <br>
-            🔗 <a href="https://github.com/GarretGallo/Gas_Monitors">View Repo</a>
+            🔗 <a href="https://github.com/GarretGallo/EnhancedGasMonitorPipeline">View Repo</a>
             </p>
     </td>
   </tr>

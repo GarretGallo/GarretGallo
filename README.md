@@ -103,7 +103,7 @@ prepare high-qualilty data for machine learning and AI applications.
       <p align="center">
             <em>Techstack</em>
             <br>
-            <img src="ToolkitGas.png" width="150" />
+            <img src="ToolkitEnhanced.png" width="150" />
             <br>
             🔗 <a href="https://github.com/GarretGallo/EnhancedGasMonitorPipeline">View Repo</a>
             </p>

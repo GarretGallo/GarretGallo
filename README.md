@@ -116,7 +116,7 @@ prepare high-qualilty data for machine learning and AI applications.
 ### :newspaper: My Latest Articles on Medium :newspaper:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/0" alt="Recent Article 0"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/1" alt="Recent Article 1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/2" alt="Recent Article 2"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/2" alt="Recent Article 2"></a>
 
 #
 

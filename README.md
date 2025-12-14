@@ -105,7 +105,7 @@ prepare high-qualilty data for machine learning and AI applications.
             <br>
             <img src="ToolkitEnhanced2.png" width="250" />
             <br>
-            🔗 <a href="https://github.com/GarretGallo/EnhancedGasMonitorPipeline">View Repo</a>
+            🔗 <a href="https://github.com/GarretGallo/IoTAnalyticsPipeline">View Repo</a>
             </p>
     </td>
   </tr>

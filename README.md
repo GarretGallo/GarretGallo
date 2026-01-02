@@ -121,8 +121,3 @@ prepare high-qualilty data for machine learning and AI applications.
 #
 
 ### :hammer: What I am Currently Working on :hammer:
-**Certifications**
-  - DataBricks Apache Spark Developer
-
-**Projects**
- - Enhanced Gas Monitor ETL Pipeline

@@ -20,6 +20,7 @@ prepare high-qualilty data for machine learning and AI applications.
 ### :page_with_curl: Certifications :page_with_curl:
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="image.png" width="100" />
+      <img src="specialty-spark-developer-associate-badge.png" width="75" />
   <img src="fundamentals-badge-databricks-2x_1.png" width="85" />
 </div>
 

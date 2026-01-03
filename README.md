@@ -15,7 +15,22 @@ prepare high-qualilty data for machine learning and AI applications.
 #
       
 ### :hammer: Toolkit :hammer:
-<img src="Toolkit.png" width="1000" />
+<p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" height="35"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="80"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="80"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" width="80"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="80"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="80"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="80"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" width="80"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width="80"/>
+<p>
+
 
 ### :page_with_curl: Certifications :page_with_curl:
 <div style="display: flex; gap: 10px; align-items: center;">
@@ -98,7 +113,7 @@ prepare high-qualilty data for machine learning and AI applications.
       <div align="center" style="margin-bottom:6px;"><strong>🧪 IoT Gas Monitor Data Pipeline</strong></div>
       <p style="margin:10px 0 10px 0;">
       </p>
-        ETL for H₂S sensor data into MySQL + Power BI for real-time monitoring.
+        Production grade data analytics pipeline utilizing AWS, Spark and Power BI to analyze and process 22M+ records.
       </p>
       <!-- Technologies Used -->
       <p align="center">

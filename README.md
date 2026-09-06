@@ -12,14 +12,7 @@ raw and unstructured data into optimized pipelines, warehouses, and analytics-re
 <img src="updated_toolkit.png" width="900" />
 
 ### :page_with_curl: Certifications :page_with_curl:
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="image.png" width="100" />
-  <img src="DB Professional.png" width="85" />
-      <img src="specialty-spark-developer-associate-badge.png" width="75" />
-  <img src="fundamentals-badge-databricks-2x_1.png" width="85" />
-    <img src="microsoft-certified-fabric-analytics-engineer-associate.png" width="100" />
-
-</div>
+<img src="certs.png" width="600" />
 
 #
 

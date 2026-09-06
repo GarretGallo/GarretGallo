@@ -6,12 +6,6 @@
 As a data and analytics engineer, I design scalable data infrastructures by transforming 
 raw and unstructured data into optimized pipelines, warehouses, and analytics-ready models. 
 
-I’ve built complex end-to-end pipelines with Python and Amazon Web Services, as well as orchestrated 
-workflows with Apache Airflow. Additionally, I've implemented distributed streaming and transformations 
-with Apache Kafka and Spark. I’ve also designed scalable data storage infrastructure across various data 
-lakehouses and warehouses. These tools and skills have enabled me to deliver business-ready insights and 
-prepare high-qualilty data for machine learning and AI applications.
-
 #
       
 ### :hammer: Toolkit :hammer:

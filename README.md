@@ -12,7 +12,7 @@ raw and unstructured data into optimized pipelines, warehouses, and analytics-re
 <img src="updated_toolkit.png" width="900" />
 
 ### :page_with_curl: Certifications :page_with_curl:
-<img src="certs.png" width="600" />
+<img src="certs2.png" width="600" />
 
 #
 

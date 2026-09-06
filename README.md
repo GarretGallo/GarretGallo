@@ -9,7 +9,7 @@ raw and unstructured data into optimized pipelines, warehouses, and analytics-re
 #
       
 ### :hammer: Toolkit :hammer:
-<img src="Toolkit.png" width="900" />
+<img src="updated_toolkit.png" width="900" />
 
 ### :page_with_curl: Certifications :page_with_curl:
 <div style="display: flex; gap: 10px; align-items: center;">

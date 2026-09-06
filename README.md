@@ -20,8 +20,11 @@ prepare high-qualilty data for machine learning and AI applications.
 ### :page_with_curl: Certifications :page_with_curl:
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="image.png" width="100" />
+  <img src="DB Professional.png" width="85" />
       <img src="specialty-spark-developer-associate-badge.png" width="75" />
   <img src="fundamentals-badge-databricks-2x_1.png" width="85" />
+    <img src="microsoft-certified-fabric-analytics-engineer-associate.png" width="100" />
+
 </div>
 
 #
@@ -118,7 +121,3 @@ prepare high-qualilty data for machine learning and AI applications.
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/0" alt="Recent Article 0"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/1" alt="Recent Article 1"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@garretgallo17/2" alt="Recent Article 2"></a>
-
-#
-
-### :hammer: What I am Currently Working on :hammer:
